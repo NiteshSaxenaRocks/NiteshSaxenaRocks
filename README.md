@@ -1,4 +1,5 @@
 Total Experience: 11 years | SFCC Experience: 8 years 
+Salesforce Certified Commerce Cloud Full Stack Developer having Expertise in Front End Technologies. 
 Phone:  +91 9582332088 | Email: nitesh.cci@gmail.com
 Address: 421, officer’s enclave karamchari nagar, Bareilly 
 
@@ -24,4 +25,27 @@ Skill Highlights
 
 Highest Education
 Master in Computer Application (MCA)
+
+Certification | Expertise
+•	Salesforce commerce cloud B2C Certification
+•	Agile Methodology for development
+•	Accessiblity (ADA for Web)
+•	Client Server Architecture
+•	SFRA Framework of SFCC
+•	JAVAScript, HTML, CSS, SCSS
+•	Agile Methodology
+
+Technical Skills
+•	HTML, CSS, JS, jQuery, Bootstrap
+•	Accessiblity (ADA for Web)
+•	SFCC (Pipeline, Controler, SFRA) 
+
+
+Worked With
+•	Capgemini India Pvt. Ltd 
+•	Relevance Lab Pvt ltd. 
+•	Sapient Consulting Limited 
+•	NTT DATA 
+•	Magna Infotech (Client-site: Sapient Consulting Limited)- 
+•	Mobimonster
 
