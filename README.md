@@ -21,34 +21,42 @@ Doing Knowledge Sharing Sessions on Front end techniques to make the whole team 
 Working on RFP, Pre Sale Demos and POC. Creating PPTs for showing capabilities of our team and work
 
 <h2>Skill Highlights</h2>
-•	Strong decision maker
-•	Complex problem solver	•	Creative design
-•	Innovative
-•	Service-focused
+<ul>
+<li>Strong decision maker </li>
+<li>Complex problem solver</li>
+<li>Creative design</li>
+<li>Innovative</li>
+<li>Service-focused</li>
+</ul>
 
 <h2>Highest Education</h2>
 Master in Computer Application (MCA)
 
 <h2>Certification | Expertise</h2>
-•	Salesforce commerce cloud B2C Certification
-•	Agile Methodology for development
-•	Accessiblity (ADA for Web)
-•	Client Server Architecture
-•	SFRA Framework of SFCC
-•	JAVAScript, HTML, CSS, SCSS
-•	Agile Methodology
+<ul>
+<li>Salesforce commerce cloud B2C Certification</li>
+<li>Agile Methodology for development</li>
+<li>Accessiblity (ADA for Web)</li>
+<li>Client Server Architecture</li>
+<li>SFRA Framework of SFCC</li>
+<li>JAVAScript, HTML, CSS, SCSS</li>
+<li>Agile Methodology</li>
+</ul>
 
 <h2>Technical Skills</h2>
-•	HTML, CSS, JS, jQuery, Bootstrap
-•	Accessiblity (ADA for Web)
-•	SFCC (Pipeline, Controler, SFRA) 
-
+<ul>
+<li>HTML, CSS, JS, jQuery, Bootstrap</li>
+<li>Accessiblity (ADA for Web)</li>
+<li>SFCC (Pipeline, Controler, SFRA) </li>
+</ul>
 
 <h2>Worked With</h2>
-•	Capgemini India Pvt. Ltd 
-•	Relevance Lab Pvt ltd. 
-•	Sapient Consulting Limited 
-•	NTT DATA 
-•	Magna Infotech (Client-site: Sapient Consulting Limited)- 
-•	Mobimonster
+<ul>
+<li>Capgemini India Pvt. Ltd </li>
+<li>Relevance Lab Pvt ltd. </li>
+<li>Sapient Consulting Limited </li>
+<li>NTT DATA </li>
+<li>Magna Infotech (Client-site: Sapient Consulting Limited) </li>
+<li>Mobimonster</li>
+</ul>
 
