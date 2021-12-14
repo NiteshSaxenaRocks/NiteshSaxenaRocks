@@ -1,6 +1,6 @@
-Total Experience: 11 years | SFCC Experience: 8 years :)
+<b>Total Experience: 11 years | SFCC Experience: 8 years </b>
 
-Salesforce Certified Commerce Cloud Full Stack Developer having Expertise in Front End Technologies. 
+<h1>Salesforce Certified Commerce Cloud Full Stack Developer having Expertise in Front End Technologies. </h1>
 
 Phone:  +91 9582332088 | Email: nitesh.cci@gmail.com
 Address: 421, officer’s enclave karamchari nagar, Bareilly 
