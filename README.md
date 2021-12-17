@@ -17,7 +17,7 @@ Working on the Performance Review of website and providing solutions to improve 
 
 <b>Mentoring Young Professionals</b> Hired directly form collage. Making them comfortable enough to work on a live project.
 
-Doing Knowledge Sharing Sessions on Front end techniques to make the whole team as a full stack developer.
+<p style='color:red'>Doing Knowledge Sharing Sessions on Front end techniques to make the whole team as a full stack developer.</p>
 
 Working on <b>RFP, Pre Sale Demos and POC</b>. Creating PPTs for showing capabilities of our team and work
 
