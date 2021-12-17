@@ -1,8 +1,3 @@
-<style>
-  span {
-color: red;  
-  }
-</style>
 <b>Total Experience: 11 years | SFCC Experience: 8 years </b>
 
 <h1>Salesforce Certified Commerce Cloud Full Stack Developer having Expertise in Front End Technologies. </h1>
