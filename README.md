@@ -33,14 +33,7 @@ Working on <b>RFP, Pre Sale Demos and POC</b>. Creating PPTs for showing capabil
 <h2>Highest Education</h2>
 Master in Computer Application (MCA)
 
-<h2> ```diff
-+  Certification
-  |
-!  Expertise 
-# text in gray
-@@ text in purple (and bold)@@
-``` 
-</h2>
+<h2> Certification | Expertise </h2>
 <ul>
 <li>Salesforce commerce cloud B2C Certification</li>
 <li>Agile Methodology for development</li>
