@@ -1,5 +1,7 @@
 <b>Total Experience: 11 years | SFCC Experience: 8 years </b>
 
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- 
 <h1>Salesforce Certified Commerce Cloud Full Stack Developer having Expertise in Front End Technologies. </h1>
 <address>
 Phone:  +91 9582332088 | Email: <a href="mailto:nitesh.cci@gmail.com ">nitesh.cci@gmail.com </a>. 
