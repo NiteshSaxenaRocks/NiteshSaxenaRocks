@@ -34,7 +34,7 @@ Working on <b>RFP, Pre Sale Demos and POC</b>. Creating PPTs for showing capabil
 <h2>Highest Education</h2>
 Master in Computer Application (MCA)
 
-<h2><span style="color:#FFA500">Certification</span> | <span style="color:#842DCE">Expertise</span></h2>
+<h2> <span style="color:#FFA500"> Certification </span> | <span style="color:#842DCE"> Expertise </span></h2>
 <ul>
 <li>Salesforce commerce cloud B2C Certification</li>
 <li>Agile Methodology for development</li>
